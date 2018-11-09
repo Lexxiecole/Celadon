@@ -1,5 +1,11 @@
-.searchName{
+#menuDiv{
+    border-style: solid;
+    width: 30%;
+    text-align: center;
 }
-.searchNumber{
-    
+
+#leaderboardDiv {
+    border-style: solid;
+    width: 30%;
+    text-align: center:
 }
